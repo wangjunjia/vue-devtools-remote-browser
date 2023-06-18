@@ -6,7 +6,7 @@
 
 ```bash
 # when your just use cli and don't want install electron
-export ELECTRON_SKIP_BINARY_DOWNLOAD=1 npm install -g @wangjunjia/vue-devtools-remote-browser
+export ELECTRON_SKIP_BINARY_DOWNLOAD=1 && npm install -g @wangjunjia/vue-devtools-remote-browser
 ```
 
 ### usage

@@ -1,6 +1,6 @@
 {
   "name": "@wangjunjia/vue-devtools-remote-browser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fork form @vuejs/vue-devtools, add cli usage without electron",
   "repository": {
     "url": "https://github.com/wangjunjia/vue-devtools-remote-browser.git",

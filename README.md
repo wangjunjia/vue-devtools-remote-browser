@@ -17,7 +17,7 @@ v-devtools-cli # for without electron
 PORT=8091 v-devtools-cli # for custom port , 8098 is default
 ```
 
-https://user-images.githubusercontent.com/30068682/246664760-fd5a36fb-ec2d-45cd-b72d-37b5f0bd7fc2.mov
+![demo gif](https://user-images.githubusercontent.com/30068682/246672135-fc2477b1-8235-4d56-89eb-65cbb6ccfe40.gif)
 
 ---
 > The following content is original repo.

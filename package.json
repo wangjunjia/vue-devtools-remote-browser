@@ -1,0 +1,50 @@
+{
+  "name": "@wangjunjia/vue-devtools-remote-browser",
+  "version": "0.0.1",
+  "description": "fork form @vuejs/vue-devtools, add cli usage without electron",
+  "repository": {
+    "url": "https://github.com/wangjunjia/vue-devtools-remote-browser.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/wangjunjia/vue-devtools-remote-browser.",
+  "bugs": "https://github.com/wangjunjia/vue-devtools-remote-browser/issues",
+  "bin": {
+    "v-devtools": "./bin.js",
+    "v-devtools-cli": "./cli.js"
+  },
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "start": "node bin.js",
+    "dev": "node cli.js"
+  },
+  "author": "wangjunjia <wang.junjia@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "electron": "^21.0.1",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "socket.io": "^4.4.0",
+    "socket.io-client": "^4.4.1",
+    "utf-8-validate": "^5.0.9"
+  },
+  "devDependencies": {},
+  "files": [
+    "build",
+    "build-node",
+    "icons",
+    "types",
+    "app.html",
+    "app.js",
+    "bin.js",
+    "cli.js",
+    "index.js",
+    "README.md",
+    "server.js"
+  ]
+}

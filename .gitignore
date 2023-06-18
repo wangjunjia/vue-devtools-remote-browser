@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+/dist/*
+*.zip
+*.xpi
+tests_output
+selenium-debug.log
+TODOs.md
+.idea
+.web-extension-id
+yarn-error.log
+.yarn/*
+
+/packages/*/lib
+.amo.env.json
